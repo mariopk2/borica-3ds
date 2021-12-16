@@ -6,6 +6,6 @@ Create certificate request at: https://webops.eu/blog/%d0%b3%d0%b5%d0%bd%d0%b5%d
 Test gateID: https://3dsgate-dev.borica.bg/cgi-bin/cgi_link
 Production gateID: https://3dsgate.borica.bg/cgi-bin/cgi_link
 
-Number of test credit card: 5100770000000022
+Number of test credit card: 5100770000000022 | Validity: 07/24 | CVT 932
 
 For more scripts: https://www.ebilling.dev
